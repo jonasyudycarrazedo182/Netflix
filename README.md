@@ -1,16 +1,16 @@
-# Jankenpo
+# NETFLIX!!
 ESPAÑOL:
-El juego se utiliza comúnmente para tomar decisiones rápidas, resolver disputas o simplemente para divertirse. Es muy popular en todo el mundo y especialmente conocido en Japón, donde se le llama Janken (じゃんけん), y durante el juego se añade el sonido “Po” (ぽ) como parte del canto rítmico.
+El diseño de Netflix es una interfaz moderna e intuitiva diseñada para ofrecer una experiencia fluida al usuario. Está dividida en secciones distintas que facilitan la navegación y destacan el contenido. En la parte superior, el encabezado negro presenta el logotipo de Netflix, enlaces de navegación como "Inicio", "Series", "Películas" y "Mi Lista", una barra de búsqueda y el avatar del usuario, que da acceso a la configuración. Justo debajo, hay una sección destacada con un banner a pantalla completa que muestra contenido popular con títulos, descripciones y botones de acción como "Ver Ahora".
 
 PORTUGUES:
-O jogo é usado comumente para tomar decisões rápidas, resolver disputas ou apenas para se divertir. É popular em muitas partes do mundo e especialmente conhecido no Japão, onde é chamado de Janken (じゃんけん), e o som "Po" (ぽ) é adicionado como parte do canto rítmico durante o jogo.
+O layout do Netflix é uma interface moderna e intuitiva, projetada para proporcionar uma experiência fluida ao usuário. Ele é dividido em seções distintas que facilitam a navegação e destacam o conteúdo. No topo, o cabeçalho preto apresenta o logotipo do Netflix, links de navegação como "Início", "Séries", "Filmes" e "Minha Lista", uma barra de pesquisa e o avatar do usuário, que dá acesso às configurações. Logo abaixo, há uma seção de destaque com um banner em tela cheia, promovendo conteúdos populares com títulos, descrições e botões de ação como "Assistir Agora".
 
 ENGLISH:
-The game is commonly used to make quick decisions, resolve disputes, or just for fun. It is popular around the world and especially well-known in Japan, where it is called Janken (じゃんけん), and the sound "Po" (ぽ) is added as part of the rhythmic chant during the game.
+The Netflix layout is a modern and intuitive interface designed to provide a seamless user experience. It is divided into distinct sections that simplify navigation and highlight content. At the top, the black header features the Netflix logo, navigation links such as "Home," "Series," "Movies," and "My List," a search bar, and the user avatar, which provides access to settings. Just below, there is a featured section with a full-screen banner showcasing popular content with titles, descriptions, and action buttons like "Watch Now."
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/19a4c0eb-3d6b-4a84-bd01-bc00615d4526" width=260/> <img src="https://github.com/user-attachments/assets/4f7e4e88-7169-4c5d-b6ad-be644312aef8" width=260/>
+<img src="https://github.com/user-attachments/assets/19a4c0eb-3d6b-4a84-bd01-bc00615d4526" width=260/> <img src="" width=260/>
 
 
 ## Technologies
